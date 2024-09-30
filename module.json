@@ -1,0 +1,28 @@
+{
+  "id": "reava",
+  "title": "Reactive Avatars",
+  "description": "Reactive Avatars for Foundry over WebRTC",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "id": "Sam Julson",
+      "email": "julson.sam@gmail.com"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "esmodules": [
+    "scripts/reava.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/SamJulson/reactive-avatars"
+}
