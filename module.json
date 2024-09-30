@@ -3,12 +3,7 @@
   "title": "Reactive Avatars",
   "description": "Reactive Avatars for Foundry over WebRTC",
   "version": "0.1.0",
-  "authors": [
-    {
-      "id": "Sam Julson",
-      "email": "julson.sam@gmail.com"
-    }
-  ],
+  "authors": [],
   "compatibility": {
     "minimum": "11",
     "verified": "12",
